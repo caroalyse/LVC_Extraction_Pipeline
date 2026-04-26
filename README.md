@@ -116,6 +116,27 @@ Output:
 data/processed/verbs_annotated.json
 ```
 
+Sample of Output: 
+```json
+{
+    "id": 1,
+    "language": "es",
+    "text": "Si partimos de esa noción y seguimos desde ahí, podemos dar el siguiente paso, que es que si el océano no está contento, nadie lo está.",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "ahí podemos",
+    "right_context": "el siguiente",
+    "matched_span": "dar el siguiente paso",
+    "verb_predicate": "el siguiente paso",
+    "is_lvc": true,
+    "confidence_rating": "high",
+    "type_reason": "The verb 'dar' loses its prototypical meaning of giving/transferring and functions as a light verb for the noun 'paso'.",
+    "synthetic_paraphrase": "avanzar",
+    "predicate_type": "nom",
+    "predicate_aspect": "def_process",
+    "subject_animacy": "animate"
+  }
+```
 ---
 
 ## Output Format
@@ -134,23 +155,25 @@ Each record contains:
 * type_reason
 * synthetic_paraphrase
 
+
 ---
 
 ## Motivation
 
-This project addresses a key challenge in computational linguistics:
+This project addresses a key challenge in descriptive and computational linguistics:
 
-> LVCs are difficult to identify due to semantic ambiguity and distributed meaning.
+> LVCs are difficult to identify due to semantic ambiguity and gradient classification.
+> LVCs raise interesting questions about language change, such as verb auxiliarization. 
 
-By combining deterministic filtering with LLM-based annotation, this pipeline explores a scalable approach to semantic classification in noisy corpus data.
+By combining rule-based filtering with LLM-based annotation, this pipeline explores a scalable approach to semantic classification in corpus data.
 
 ---
 
 ## Future Work
 
 * Improve LLM classification accuracy
-* Add graph-based representation of predicate relationships
-* Scale to larger corpora (e.g., Reddit dumps)
+* Model predicate relationships
+* Scale to larger, messier corpora (e.g., Reddit dumps)
 * Evaluate against annotated linguistic datasets
 
 ---
