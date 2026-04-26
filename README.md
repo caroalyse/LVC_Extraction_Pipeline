@@ -191,3 +191,6 @@ By combining rule-based filtering with LLM-based annotation, this pipeline explo
 
 * API keys are not included in this repository.
 * Use `.env` to configure credentials securely.
+
+## References
+- Pompei, A., Mereu, L. & Piunno, V. (2023). Light Verb Constructions as Complex Verbs: Features, Typology and Function. Berlin, Boston: De Gruyter Mouton. https://doi.org/10.1515/9783110747997
