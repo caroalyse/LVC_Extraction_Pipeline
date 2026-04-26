@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "language": "PT",
+    "text": "a qualquer custo, n\u00f3s dar\u00edamos a nossa vida por eles, e no entanto, as nossas crian\u00e7as v\u00eam sendo muito maltratadas pela sociedade. Na verdade, isso exige uma reflex\u00e3o e que possamos propor mudan\u00e7as. \u00c9 o que espero fazer um pouquinho com voc\u00eas hoje. Se formos pensar nas crian\u00e7as",
+    "verb_lemma": "dar",
+    "verb_surface": "dar\u00edamos",
+    "left_context": "custo n\u00f3s",
+    "right_context": "a nossa"
+  },
+  {
+    "id": 2,
+    "language": "PT",
+    "text": "mas certamente n\u00e3o vai ter os mesmos benef\u00edcios que um parto normal. Lembrando que, claro que existem ces\u00e1reas necess\u00e1rias. Para cada um desses pecados que vamos listar, estamos criticando o exagero, aquilo que \u00e9 desnecess\u00e1rio, aquilo que \u00e9 mentiroso. Da mesma forma acontece com o leite materno.",
+    "verb_lemma": "dar",
+    "verb_surface": "desses",
+    "left_context": "cada um",
+    "right_context": "pecados que"
+  },
+  {
+    "id": 3,
+    "language": "PT",
+    "text": "A ind\u00fastria \u00e9 proibida de fazer propaganda para o consumidor, mas ela faz a propaganda pelos nomes que ela d\u00e1 \u00e0s suas f\u00f3rmulas: Premium, Expert Pro, Supreme. E o leite materno, coitadinho, n\u00e3o \u00e9 \"pro\", ele \u00e9 amador. Mas ele justamente vem com muito amor e ele \u00e9 infinitamente superior",
+    "verb_lemma": "dar",
+    "verb_surface": "d\u00e1",
+    "left_context": "que ela",
+    "right_context": "\u00e0s suas"
+  },
+  {
+    "id": 4,
+    "language": "PT",
+    "text": "patrocinando integralmente as sociedades m\u00e9dicas, conquistando a simpatia do pediatra, que acaba, inconscientemente, sendo uma das maiores causas de desmame do Brasil. E dessa forma, vamos perdendo os privil\u00e9gios da amamenta\u00e7\u00e3o e provocando, atrav\u00e9s desse primeiro pecado,",
+    "verb_lemma": "dar",
+    "verb_surface": "desse",
+    "left_context": "provocando atrav\u00e9s",
+    "right_context": "primeiro pecado"
+  },
+  {
+    "id": 5,
+    "language": "PT",
+    "text": "A crian\u00e7a perde o conv\u00edvio com as pessoas mais importantes da vida dela. O conv\u00edvio \u00e9 o que nos d\u00e1 a intimidade, a capacidade de estar junto, o amor, a sensa\u00e7\u00e3o de estar cuidando de algu\u00e9m, a sensa\u00e7\u00e3o de conhecer profundamente algu\u00e9m, de estar em casa com essa pessoa. Esses s\u00e3o os nossos filhos preciosos",
+    "verb_lemma": "dar",
+    "verb_surface": "d\u00e1",
+    "left_context": "que nos",
+    "right_context": "a intimidade"
+  },
+  {
+    "id": 6,
+    "language": "PT",
+    "text": "e estamos perdendo isso por causa deste terr\u00edvel pecado da terceiriza\u00e7\u00e3o da inf\u00e2ncia. Os pais de Gabriela n\u00e3o podem cozinhar, n\u00e3o t\u00eam tempo, n\u00e3o t\u00eam dinheiro para pagar empregada, eles v\u00e3o dar o que a m\u00eddia diz pra dar: comida congelada, comida industrializada, aquilo que os supermercados exp\u00f5em",
+    "verb_lemma": "dar",
+    "verb_surface": "deste",
+    "left_context": "por causa",
+    "right_context": "terr\u00edvel pecado"
+  },
+  {
+    "id": 7,
+    "language": "PT",
+    "text": "e estamos perdendo isso por causa deste terr\u00edvel pecado da terceiriza\u00e7\u00e3o da inf\u00e2ncia. Os pais de Gabriela n\u00e3o podem cozinhar, n\u00e3o t\u00eam tempo, n\u00e3o t\u00eam dinheiro para pagar empregada, eles v\u00e3o dar o que a m\u00eddia diz pra dar: comida congelada, comida industrializada, aquilo que os supermercados exp\u00f5em",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "eles v\u00e3o",
+    "right_context": "o que"
+  },
+  {
+    "id": 8,
+    "language": "PT",
+    "text": "e estamos perdendo isso por causa deste terr\u00edvel pecado da terceiriza\u00e7\u00e3o da inf\u00e2ncia. Os pais de Gabriela n\u00e3o podem cozinhar, n\u00e3o t\u00eam tempo, n\u00e3o t\u00eam dinheiro para pagar empregada, eles v\u00e3o dar o que a m\u00eddia diz pra dar: comida congelada, comida industrializada, aquilo que os supermercados exp\u00f5em",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "diz pra",
+    "right_context": "comida congelada"
+  },
+  {
+    "id": 9,
+    "language": "PT",
+    "text": "que est\u00e3o explodindo na inf\u00e2ncia. E mesmo que a gente queira e consiga dar comida saud\u00e1vel para nossos filhos, ela j\u00e1 n\u00e3o \u00e9 t\u00e3o saud\u00e1vel porque vem inundada de agrot\u00f3xicos, e n\u00f3s somos campe\u00f5es mundiais de consumo de agrot\u00f3xicos. \u00c9 o pecado da intoxica\u00e7\u00e3o da inf\u00e2ncia, que tamb\u00e9m leva a graves problemas.",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "e consiga",
+    "right_context": "comida saud\u00e1vel"
+  },
+  {
+    "id": 10,
+    "language": "PT",
+    "text": "da gente na inf\u00e2ncia. A gente olhava pela janela e via a paisagem passar, uma forma de medita\u00e7\u00e3o, no entanto hoje s\u00e3o dois DVDs e dois tablets para cada, sen\u00e3o pode dar confus\u00e3o no carro, n\u00e9? Mesmo nos momentos... Isto existe, gente. (Risos) Mesmo nos momentos em que a crian\u00e7a mais precisa de consci\u00eancia...",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "sen\u00e3o pode",
+    "right_context": "confus\u00e3o no"
+  },
+  {
+    "id": 11,
+    "language": "PT",
+    "text": "fazendo com que ela se apaixone por produtos t\u00f3xicos, por brinquedos caros e por marcas em fun\u00e7\u00e3o desse amor, e que instila nela valores como consumismo obsessivo, a hipervaloriza\u00e7\u00e3o da apar\u00eancia, a futilidade e coisas piores, e que vai desaguar na obesidade, vai desaguar mesmo no consumo de \u00e1lcool...",
+    "verb_lemma": "dar",
+    "verb_surface": "desse",
+    "left_context": "em fun\u00e7\u00e3o",
+    "right_context": "amor e"
+  },
+  {
+    "id": 12,
+    "language": "PT",
+    "text": "est\u00e1 crescendo assustadoramente. Esse \u00e9 o pecado da mercantiliza\u00e7\u00e3o da inf\u00e2ncia e do consumismo infantil. Gabriela fica com a agenda lotada de compromissos porque seus pais querem que ela seja competitiva, um adulto de muito sucesso, e a sua agenda fica cheia de compromissos. Para relaxar desse estresse,",
+    "verb_lemma": "dar",
+    "verb_surface": "desse",
+    "left_context": "para relaxar",
+    "right_context": "estresse"
+  },
+  {
+    "id": 13,
+    "language": "PT",
+    "text": "Gabriela tem pais que t\u00eam medo dela porque n\u00e3o convivem com ela. Ent\u00e3o, em vez de dar limites, eles a colocam num trono. Ela passa a ser a rainha da fam\u00edlia e n\u00e3o mais um membro da fam\u00edlia. Ela passa a decidir os programas, os card\u00e1pios. Se ela vai mal na escola, \u00e9 culpa da escola,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "vez de",
+    "right_context": "limites eles"
+  },
+  {
+    "id": 14,
+    "language": "PT",
+    "text": "Ela precisa de gente que conduza a vida dela. Isso vai gerando ang\u00fastia e vai gerando sintomas. A gente sabe que a import\u00e2ncia dos limites e do \"n\u00e3o\" s\u00e3o formas fundamentais de amor, que precisamos dar aos filhos e estamos perdendo essa capacidade. Em vez disso, estamos fazendo o que os",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "que precisamos",
+    "right_context": "aos filhos"
+  },
+  {
+    "id": 15,
+    "language": "PT",
+    "text": "entregar para eles mais tarde. Esse \u00e9 o pecado da entroniza\u00e7\u00e3o e da superprote\u00e7\u00e3o da inf\u00e2ncia. Bom, diante de tantos problemas, \u00e9 claro que a inf\u00e2ncia vai dar sintomas. A crian\u00e7a vai ficar rebelde, brigona, birrenta, vai ficar doente, comer demais, ficar obesa, ir mal na escola, n\u00e3o vai prestar aten\u00e7\u00e3o,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "inf\u00e2ncia vai",
+    "right_context": "sintomas a"
+  },
+  {
+    "id": 16,
+    "language": "PT",
+    "text": "vai ficar hiperativa, precisamos fazer alguma coisa sobre isso. N\u00e3o \u00e9 poss\u00edvel essas crian\u00e7as desse jeito. Da mesma forma que a gente pega essas crian\u00e7as pobres e coloca na cadeia, qual \u00e9 a solu\u00e7\u00e3o que vamos dar para essas crian\u00e7as malcomportadas? N\u00e3o a revis\u00e3o de todos esses problemas,",
+    "verb_lemma": "dar",
+    "verb_surface": "desse",
+    "left_context": "essas crian\u00e7as",
+    "right_context": "jeito da"
+  },
+  {
+    "id": 17,
+    "language": "PT",
+    "text": "vai ficar hiperativa, precisamos fazer alguma coisa sobre isso. N\u00e3o \u00e9 poss\u00edvel essas crian\u00e7as desse jeito. Da mesma forma que a gente pega essas crian\u00e7as pobres e coloca na cadeia, qual \u00e9 a solu\u00e7\u00e3o que vamos dar para essas crian\u00e7as malcomportadas? N\u00e3o a revis\u00e3o de todos esses problemas,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "que vamos",
+    "right_context": "para essas"
+  },
+  {
+    "id": 18,
+    "language": "PT",
+    "text": "n\u00e3o pensar esse contexto? N\u00e3o, a \"medicaliza\u00e7\u00e3o\"! N\u00f3s vamos dar rem\u00e9dio tarja preta para elas se comportarem bem. Isso se chama medicaliza\u00e7\u00e3o e \u00e9 o pior dos pecados. O Quino, da Mafalda, fala disso, retrata isso de uma maneira maravilhosa. Ele conta a hist\u00f3ria de uma cidade polu\u00edda por uma f\u00e1brica,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "n\u00f3s vamos",
+    "right_context": "rem\u00e9dio tarja"
+  },
+  {
+    "id": 19,
+    "language": "PT",
+    "text": "isso \u00e9 um massacre contra a inf\u00e2ncia. N\u00f3s estamos rotulando, normatizando, e impedindo que crian\u00e7as sejam elas mesmas. E eu tenho certeza que se algum destes g\u00eanios da humanidade estivesse hoje na escola, ele estaria sendo exatamente isto, rotulado, normatizado, e n\u00f3s ter\u00edamos amputado a sua genialidade",
+    "verb_lemma": "dar",
+    "verb_surface": "destes",
+    "left_context": "se algum",
+    "right_context": "g\u00eanios da"
+  },
+  {
+    "id": 20,
+    "language": "PT",
+    "text": "O d\u00edzimo \u00e9 dar uma parte daquilo que temos de mais precioso para a nossa inf\u00e2ncia, para nossos filhos, que s\u00e3o o nosso sagrado. O que temos de mais precioso hoje? Nosso capital mais importante? \u00c9 o tempo. N\u00f3s temos 17 horas de vig\u00edlia, s\u00e3o 1,7 horas que temos que dedicar aos nossos filhos. Cem minutos.",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "d\u00edzimo \u00e9",
+    "right_context": "uma parte"
+  },
+  {
+    "id": 21,
+    "language": "PT",
+    "text": "Isso d\u00e1 1h 40min por dia, n\u00e3o \u00e9 muito, \u00e9 poss\u00edvel, \u00e9 s\u00f3 priorizar. E se n\u00e3o der nos dias de semana, come\u00e7amos a acumular nos fins de semana. \u00c9 poss\u00edvel dar tempo de conv\u00edvio para nossos filhos. Em rela\u00e7\u00e3o ao espa\u00e7o, eu queria propor um exerc\u00edcio a voc\u00eas. Quinze segundos, vamos fechar os olhos,",
+    "verb_lemma": "dar",
+    "verb_surface": "d\u00e1",
+    "left_context": "isso",
+    "right_context": "1h 40min"
+  },
+  {
+    "id": 22,
+    "language": "PT",
+    "text": "Isso d\u00e1 1h 40min por dia, n\u00e3o \u00e9 muito, \u00e9 poss\u00edvel, \u00e9 s\u00f3 priorizar. E se n\u00e3o der nos dias de semana, come\u00e7amos a acumular nos fins de semana. \u00c9 poss\u00edvel dar tempo de conv\u00edvio para nossos filhos. Em rela\u00e7\u00e3o ao espa\u00e7o, eu queria propor um exerc\u00edcio a voc\u00eas. Quinze segundos, vamos fechar os olhos,",
+    "verb_lemma": "dar",
+    "verb_surface": "der",
+    "left_context": "se n\u00e3o",
+    "right_context": "nos dias"
+  },
+  {
+    "id": 23,
+    "language": "PT",
+    "text": "Isso d\u00e1 1h 40min por dia, n\u00e3o \u00e9 muito, \u00e9 poss\u00edvel, \u00e9 s\u00f3 priorizar. E se n\u00e3o der nos dias de semana, come\u00e7amos a acumular nos fins de semana. \u00c9 poss\u00edvel dar tempo de conv\u00edvio para nossos filhos. Em rela\u00e7\u00e3o ao espa\u00e7o, eu queria propor um exerc\u00edcio a voc\u00eas. Quinze segundos, vamos fechar os olhos,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "\u00e9 poss\u00edvel",
+    "right_context": "tempo de"
+  },
+  {
+    "id": 24,
+    "language": "PT",
+    "text": "com o espa\u00e7o aberto, o que ele faz? Olha que maravilha! Ele vai nos afastar das telas, vai nos dar momentos de consci\u00eancia, especialmente para as crian\u00e7as. Vai reduzir o consumismo e o materialismo excessivo. Vai promover o livre brincar, que, por sua vez, vai gerar intelig\u00eancia,",
+    "verb_lemma": "dar",
+    "verb_surface": "dar",
+    "left_context": "vai nos",
+    "right_context": "momentos de"
+  },
+  {
+    "id": 25,
+    "language": "PT",
+    "text": "Bom, no Seja Campo Limpo, hoje, ele \u00e9 muito feliz. Ele tem aulas com v\u00e1rios professores, tem muitos amigos, ele diz que eu sou o melhor amigo dele. E durante dois anos consecutivos, ele me deu presente no dia dos pais. Eu acredito que a escola, ela vai muito al\u00e9m do ensino",
+    "verb_lemma": "dar",
+    "verb_surface": "deu",
+    "left_context": "ele me",
+    "right_context": "presente no"
+  }
+]
