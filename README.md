@@ -187,6 +187,12 @@ By combining rule-based filtering with LLM-based annotation, this pipeline explo
 
 ---
 ## How to Cite
+If you use this project, please cite it as follows:
+
+### General:
+Amodeo Williams, Caroline. (2026). LVC Detection Pipeline for Spanish Verbs. GitHub repository. https://github.com/caroalyse/LVC_Extraction_Pipeline
+
+### Bibtex: 
 ```bibtex
 @misc{awilliams2026lvc, author = {Amodeo Williams, Caroline}, title = {LVC Detection Pipeline for Spanish Verbs}, year = {2026}, howpublished = {\url{https://github.com/caroalyse/LVC_Extraction_Pipeline}}, note = {GitHub repository} }
 ```
