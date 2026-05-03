@@ -4,44 +4,43 @@ This project builds a small LLM-assisted pipeline for identifying and analyzing 
 
 ## Overview
 
-Light verb constructions (e.g., *dar un paseo*, *hacer una pregunta*) are challenging to detect because meaning is distributed between the verb and its complement. This project explores a hybrid approach:
+Light verb constructions, or LVCs (e.g., *dar un paseo*, *hacer una pregunta*), are challenging to detect because meaning is not categorical and is shared between the verb and its complement. This project uses a hybrid approach to classify LVCs:
 
 1. **Rule-based candidate extraction**
 2. **Structured data transformation**
 3. **LLM-assisted semantic annotation**
 
-The result is a structured dataset enriched with linguistic features such as predicate type, aspect, and animacy.
+The output is a structured dataset annotated with linguistic features such as predicate type, lexical aspect (Aktionsart), and animacy.
 
 ---
 
 ## Pipeline
 
-The pipeline follows an ETL-style architecture:
+The pipeline follows an ETL-style pipeline:
 
 ```
 Raw Corpus Data
     ↓
-load_corpus()
+load_data
     ↓
-filter_data()  → candidate verb instances
+save_verb_matches()  → candidate verb instances
     ↓
-format_data()  → add metadata (id, language)
-    ↓
-LLM annotation → semantic analysis and annotation
+llm_annotation ()  → semantic analysis and annotation
     ↓
 Final JSON dataset
 ```
 
 ---
 
-## Project Structure
+## Project Structure - for GitHub Repo
 
 ```
 .
 ├── src/                # Core pipeline scripts
 ├── prompts/            # Prompt templates for LLM annotation
 ├── data/
-│   ├── interim/        # Candidate verb matches
+│   ├── raw/            # sample or real corpus data
+|   └── interim/        # Candidate verb matches
 │   └── processed/      # Annotated output
 ├── .env.example        # Environment variable template
 ├── .gitignore
@@ -93,13 +92,14 @@ LLM_MODEL=your_model_name
 ### Step 1: Extract candidate verbs
 
 ```
-python src/build_dataset.py
+python src/load_data.py
+python src/save_verb_matches.py
 ```
 
 Output:
 
 ```
-data/interim/verb_candidates.json
+data/interim/verb_candidates_ES.json
 ```
 
 ---
@@ -107,13 +107,13 @@ data/interim/verb_candidates.json
 ### Step 2: Annotate with LLM
 
 ```
-python src/annotate_records.py
+python src/llm_annotation.py
 ```
 
 Output:
 
 ```
-data/processed/verbs_annotated.json
+data/processed/verbs_annotated_ES.json
 ```
 
 Sample of Output: 
@@ -163,7 +163,7 @@ Each record contains:
 This project addresses a key challenge in descriptive and computational linguistics:
 
 > LVCs are difficult to identify due to semantic ambiguity and gradient classification.
-> LVCs raise interesting questions about language change, such as verb auxiliarization. 
+> LVCs raise interesting questions about language change, such as verb auxiliarization and grammaticalization.
 
 By combining rule-based filtering with LLM-based annotation, this pipeline explores a scalable approach to semantic classification in corpus data.
 
@@ -173,15 +173,15 @@ By combining rule-based filtering with LLM-based annotation, this pipeline explo
 
 * Improve LLM classification accuracy
 * Model predicate relationships
-* Scale to larger, messier corpora (e.g., Reddit dumps)
+* Scale to larger, messier corpora (e.g., Reddit comments)
 * Evaluate against annotated linguistic datasets
 
 ---
 
-## Tech Stack
+## Technology 
 
 * Python
-* JSON-based data modeling
+* JSON structuring
 * LLM API (e.g., Gemma / LLaMA)
 * Regex-based text processing
 
