@@ -186,6 +186,11 @@ By combining rule-based filtering with LLM-based annotation, this pipeline explo
 * Regex-based text processing
 
 ---
+## How to Cite
+```bibtex
+@misc{awilliams2026lvc, author = {Amodeo Williams, Caroline}, title = {LVC Detection Pipeline for Spanish Verbs}, year = {2026}, howpublished = {\url{https://github.com/caroalyse/LVC_Extraction_Pipeline}}, note = {GitHub repository} }
+```
+---
 
 ## Notes
 
