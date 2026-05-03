@@ -1,4 +1,4 @@
-# Final Project: LVC Extraction Pipeline (Spanish/Portuguese)
+# LVC Extraction Pipeline (Spanish/Portuguese)
 
 This project builds a small LLM-assisted pipeline for identifying and analyzing **light verb constructions (LVCs)** using a combination of rule-based filtering and LLM-based annotation from corpus data. 
 
@@ -205,3 +205,5 @@ Amodeo Williams, Caroline. (2026). LVC Detection Pipeline for Spanish Verbs. Git
 
 ## References
 - Pompei, A., Mereu, L. & Piunno, V. (2023). Light Verb Constructions as Complex Verbs: Features, Typology and Function. Berlin, Boston: De Gruyter Mouton. https://doi.org/10.1515/9783110747997
+
+ This was the final project for the LING L605 Advanced Data Modeling for Computational Linguistics course at Indiana University.
